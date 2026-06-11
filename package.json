@@ -2,6 +2,7 @@
   "name": "my-website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://insaabbas.github.io/FYP",
   "type": "module",
   "scripts": {
     "dev": "vite --open",
