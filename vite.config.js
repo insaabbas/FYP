@@ -10,5 +10,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/FYP_Humor/'
+  base: '/FYP_Humor/',   // IMPORTANT
 })
